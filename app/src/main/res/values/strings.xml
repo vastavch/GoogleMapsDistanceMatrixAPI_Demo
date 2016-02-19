@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleMatrixAPI_demo</string>
+    <string name="txt_btn">GET DIRECTIONS</string>
+    <string name="txt_dstn">Destination Point(city,state,country)</string>
+    <string name="txt_start">Starting Point (city,state,country)</string>
+    <string name="str_info">space(\" \") must be replaced with \"+\".For example Jersey City must be replaced with Jersey+City</string>
+</resources>
